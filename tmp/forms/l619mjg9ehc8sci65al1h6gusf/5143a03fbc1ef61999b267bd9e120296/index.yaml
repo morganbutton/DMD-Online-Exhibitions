@@ -1,0 +1,30 @@
+form: flex-pages
+unique_id: 5143a03fbc1ef61999b267bd9e120296
+url: '/pages/themes/01-cyborgs/:add'
+user:
+  username: mtb5591
+  email: morgan_button@outlook.com
+timestamps:
+  created: 1624419092
+  updated: 1624419092
+data: null
+files: {  }
+object:
+  type: pages
+  key: themes/01-cyborgs
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: 09.themes
+    order: false
+    folder: 01-cyborgs
+    template: blog
+    lang: ''
+    root: false
+    route: /themes
+    name: blog
+    header:
+      title: Cyborgs
+    frontmatter: "title: Cyborgs\n"

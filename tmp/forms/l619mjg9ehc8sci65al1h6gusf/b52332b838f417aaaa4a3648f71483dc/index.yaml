@@ -1,0 +1,96 @@
+form: flex-pages
+unique_id: b52332b838f417aaaa4a3648f71483dc
+url: 'http://localhost/DMDExhibitions/admin/pages/02-futures'
+user:
+  username: mtb5591
+  email: morgan_button@outlook.com
+timestamps:
+  created: 1624418913
+  updated: 1624418917
+data:
+  header:
+    title: Futures
+    body_classes: null
+    order_by: null
+    order_manual: null
+    hero_classes: null
+    hero_image: null
+    content:
+      items:
+        - '@self.children'
+      limit: 5
+      order:
+        by: date
+        dir: desc
+      pagination: true
+      url_taxonomy_filters: true
+    media_order: null
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    blog_url: null
+    show_sidebar: null
+    show_breadcrumbs: null
+    show_pagination: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: null
+  folder: 02-futures
+  route: null
+  name: blog
+  ordering: true
+  order: null
+  blueprint: null
+  lang: null
+  xss_check: null
+  value: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: 02-futures
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: ''
+    order: '10.'
+    folder: 02-futures
+    template: blog
+    lang: ''
+    header:
+      title: Futures
+    root: false
+    route: /
+    name: blog
+    frontmatter: "title: Futures\n"
+    slug: 02-futures

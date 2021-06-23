@@ -1,0 +1,30 @@
+form: flex-pages
+unique_id: 881bb9ea66ef949430f6d8cbffac2ecb
+url: '/pages/capstone-project-exhibition/:add'
+user:
+  username: CollinsDMD
+  email: msc227@psu.edu
+timestamps:
+  created: 1624398849
+  updated: 1624398849
+data: null
+files: {  }
+object:
+  type: pages
+  key: capstone-project-exhibition
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: ''
+    order: '04.'
+    folder: capstone-project-exhibition
+    template: blog
+    lang: ''
+    root: false
+    route: /
+    name: blog
+    header:
+      title: 'CAPSTONE PROJECT EXHIBITION'
+    frontmatter: "title: 'CAPSTONE PROJECT EXHIBITION'\n"

@@ -1,0 +1,30 @@
+form: flex-pages
+unique_id: 0c452ce7db3a2871cfd8aab823f8cb98
+url: '/pages/themes/01-futures/:add'
+user:
+  username: mtb5591
+  email: morgan_button@outlook.com
+timestamps:
+  created: 1624418955
+  updated: 1624418955
+data: null
+files: {  }
+object:
+  type: pages
+  key: themes/01-futures
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: 09.themes
+    order: '02.'
+    folder: 01-futures
+    template: blog
+    lang: ''
+    root: false
+    route: /themes
+    name: blog
+    header:
+      title: Futures
+    frontmatter: "title: Futures\n"
