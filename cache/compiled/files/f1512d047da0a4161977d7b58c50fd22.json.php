@@ -2,24 +2,24 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/wamp64/www/DMDExhibitions/user/data/flex/indexes/pages.json',
-    'modified' => 1624426984,
+    'modified' => 1625004603,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1624426984,
+        'timestamp' => 1625004603,
         'count' => 15,
         'index' => [
             '' => [
                 'key' => '',
                 'storage_key' => '',
                 'template' => NULL,
-                'storage_timestamp' => 1624419402,
+                'storage_timestamp' => 1625004479,
                 'children' => [
-                    '01.dmd-online-exhibitions' => 1624418063,
-                    '08.capstone' => 1624418150,
-                    '09.themes' => 1624419303,
-                    'imageFolder' => 1624417741
+                    '01.dmd-online-exhibitions' => 1624426799,
+                    '08.capstone' => 1624426782,
+                    '09.themes' => 1624426791,
+                    'imageFolder' => 1624423664
                 ],
-                'checksum' => '7b4fc0f4f476ab71cd053408f12a28a1'
+                'checksum' => '4f5b5019cbc1cab9307d9ac695900772'
             ],
             '01.dmd-online-exhibitions' => [
                 'key' => 'dmd-online-exhibitions',
